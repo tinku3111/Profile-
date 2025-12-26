@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=7A7A7A&center=true&vCenter=true&width=500&lines=Balaji+Sangana;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
-<script>alert("hii");</script>
 <p align="center">
   <strong>Web • API • Network Security</strong>
 </p>
 
 <p align="center">
+  <a href="javas\x01cript:javascript:alert(1)" id="fuzzelement1">test</a>
   <a href="https://balajisangana.pages.dev/">Website</a> •
   <a href="mailto:balajisangana731@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/balaji-sangana">LinkedIn</a>
