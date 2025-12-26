@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="javas\x01cript:javascript:alert(1)" id="fuzzelement1">test</a>
   <a href="https://balajisangana.pages.dev/">Website</a> •
   <a href="mailto:balajisangana731@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/balaji-sangana">LinkedIn</a>
@@ -18,10 +17,9 @@
 
 I am an **Offensive Security Researcher & Penetration Tester** focused on identifying, exploiting, and responsibly disclosing real-world security vulnerabilities.
 
-- 🐞 **Verified Bug Bounty Hunter** (7+ valid reports)
+- 🐞 **Verified Bug Bounty Hunter** (10+ valid reports)
 - ⚔️ Specialization in **Web, API & Network Attacks**
 - 🔍 Strong in **Reconnaissance, Exploitation & Automation**
-- 🧑‍💻 Founder & Security Consultant @ **Haakwin**
 
 ---
 
@@ -94,8 +92,7 @@ I am an **Offensive Security Researcher & Penetration Tester** focused on identi
 
 - 🌐 https://balajisangana.pages.dev  
 - 📧 balajisangana731@gmail.com  
-- 💼 LinkedIn: /in/balaji-sangana  
-
----
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/balaji-sangana">/in/balaji-sangana</a>
+-
 
 > *“Break systems responsibly to make them stronger.”*
